@@ -19,4 +19,4 @@ This project built using **VueJs 2.5.7** and **laravel 5.5**, so your php versio
 ```
 8. Migrate the tables `php artisan migrate`
 9. Run the project! `php artisan serve`
-10. for LOGIN insert 'user1@todo.com' for first email and 'user1@todo.com' for second and password is '12345678' for both 
+10. NOTE for LOGIN insert 'user1@todo.com' for first email and 'user2@todo.com' for the second and password is '12345678' for both 
